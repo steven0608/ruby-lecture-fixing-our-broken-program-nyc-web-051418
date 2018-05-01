@@ -1,3 +1,5 @@
-total = "64.25"
-num_of_people = 4
-puts price_per_person = total.to_f / num_of_people
+def calculate_interest(loan_amount)
+  loan_amount * 0.0525
+end
+
+puts calculate_interest
