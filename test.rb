@@ -5,3 +5,7 @@ end
 puts calculate_interest(50)
 
 puts 1 + "hello".to_i
+
+index = "hello"
+array = [1,2,3]
+puts array[index]
