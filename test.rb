@@ -4,4 +4,4 @@ end
 
 puts calculate_interest(50)
 
-puts 1 + "1".to_i
+puts 1 + "hello".to_i
