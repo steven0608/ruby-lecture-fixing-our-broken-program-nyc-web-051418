@@ -3,3 +3,5 @@ def calculate_interest(loan_amount)
 end
 
 puts calculate_interest(50)
+
+puts 1 + "1"
